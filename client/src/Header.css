@@ -1,0 +1,22 @@
+.header-right-part
+{
+    background-color: #CC0000;
+    width: 35%;
+    height: 115px;
+    display: inline-block;
+    text-align: left;
+    color: white;
+    padding: 20px 0px 0px 20px;
+}
+.header-right-part h1 {
+    font-size: 48px;
+    line-height: 20px;
+}
+
+.header-left-part
+{
+    background-color:transparent;
+    height: 115px;
+    width: 65%; 
+    display: inline-block;
+}

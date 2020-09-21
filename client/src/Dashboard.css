@@ -1,0 +1,68 @@
+.imagesize{
+    width: 6em;
+    height:6em;
+}
+
+.image-header
+{
+    float: left;  
+}
+.image-detail-right-part
+{
+    float: left;
+    
+}
+.account-balance {
+    margin: 0px 0px 25px 0px;
+    color: red;
+    
+}
+
+.main {
+    position:absolute;
+    width:50%;
+    padding:10px;
+  }
+  .main > div{
+    float:left;
+    margin:10px;
+  }
+  .d1{
+    width:47%;
+    /* height:100px;
+    border:1px solid red; */
+  }
+  
+  .d2{
+    width:48%;
+    /* height:100px;
+    border:1px solid blue; */
+  }
+
+  .input-design{
+    margin: 15px 0px 0px 0px;
+    width:80%;
+  }
+
+  .header {
+    /* position:absolute;
+    width:50%; */
+    padding:20px;
+    height: 105px;
+    color:black;
+  }
+  .header > div{
+    float:left;
+    margin:10px;
+  }
+
+  .d3{
+    width:10%;
+  }
+  
+  .d4{
+    
+    padding:20px;
+    width:70%;
+    margin-top: 40px !important;
+  }

@@ -1,0 +1,8 @@
+.App {
+  /* text-align: center; */
+  background: url("../src/img/page_1_0_login/bg.jpg");
+  height:100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
